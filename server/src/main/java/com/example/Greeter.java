@@ -13,8 +13,8 @@ public class Greeter {
   }
 
   /**
-  * @param el nombre de una persona
-  * @return cadena de texto
+  * @param someone nombre de una persona
+  * @return greeting string
   */
 
   //Add javadoc comment
